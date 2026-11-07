@@ -1,0 +1,205 @@
+2026-11-07 17:24:20.076 [main] WARN  utils.Log - navigating to url
+2026-11-07 17:24:23.558 [main] WARN  utils.Log - maximizing driver
+2026-11-07 17:24:23.619 [main] WARN  utils.Log - navigating to url
+2026-11-07 17:24:24.341 [main] WARN  utils.Log - waiting if url does not open
+2026-11-07 17:24:24.414 [main] WARN  utils.Log - url is working
+2026-11-07 17:24:24.466 [main] WARN  utils.Log - entering invalid username and password
+2026-11-07 17:24:25.551 [main] WARN  utils.Log - navigating to url
+2026-11-07 17:24:26.936 [main] WARN  utils.Log - maximizing driver
+2026-11-07 17:24:26.999 [main] WARN  utils.Log - navigating to url
+2026-11-07 17:24:27.798 [main] WARN  utils.Log - waiting if url does not open
+2026-11-07 17:24:27.854 [main] WARN  utils.Log - url is working
+2026-11-07 17:24:27.858 [main] WARN  utils.Log - entering valid username and password
+2026-11-07 17:30:27.747 [main] INFO  utils.Log - navigating to url
+2026-11-07 17:32:12.604 [main] INFO  utils.Log - navigating to url
+2026-11-07 17:34:19.311 [main] INFO  utils.Log - navigating to url
+2026-11-07 17:34:22.235 [main] INFO  utils.Log - maximizing driver
+2026-11-07 17:34:22.316 [main] INFO  utils.Log - navigating to url
+2026-11-07 17:34:23.238 [main] INFO  utils.Log - waiting if url does not open
+2026-11-07 17:34:23.301 [main] INFO  utils.Log - url is working
+2026-11-07 17:34:23.325 [main] INFO  utils.Log - entering invalid username and password
+2026-11-07 17:34:24.141 [main] INFO  utils.Log - navigating to url
+2026-11-07 17:34:25.216 [main] INFO  utils.Log - maximizing driver
+2026-11-07 17:34:25.282 [main] INFO  utils.Log - navigating to url
+2026-11-07 17:34:25.939 [main] INFO  utils.Log - waiting if url does not open
+2026-11-07 17:34:25.981 [main] INFO  utils.Log - url is working
+2026-11-07 17:34:25.983 [main] INFO  utils.Log - entering valid username and password
+2026-11-07 18:28:16.098 [main] INFO  utils.Log - navigating to url
+2026-11-07 18:28:19.903 [main] INFO  utils.Log - maximizing driver
+2026-11-07 18:28:19.982 [main] INFO  utils.Log - navigating to url
+2026-11-07 18:29:05.639 [main] INFO  utils.Log - navigating to url
+2026-11-07 18:29:08.340 [main] INFO  utils.Log - maximizing driver
+2026-11-07 18:29:08.413 [main] INFO  utils.Log - navigating to url
+2026-11-07 18:29:54.228 [main] INFO  utils.Log - navigating to url
+2026-11-07 18:29:56.683 [main] INFO  utils.Log - maximizing driver
+2026-11-07 18:29:56.749 [main] INFO  utils.Log - navigating to url
+2026-11-07 18:29:57.426 [main] INFO  utils.Log - waiting if url does not open
+2026-11-07 18:29:57.498 [main] INFO  utils.Log - url is working
+2026-11-07 18:29:57.547 [main] INFO  utils.Log - entering invalid username and password
+2026-11-07 18:34:39.678 [main] INFO  utils.Log - navigating to url
+2026-11-07 18:34:49.129 [main] INFO  utils.Log - maximizing driver
+2026-11-07 18:34:49.251 [main] INFO  utils.Log - navigating to url
+2026-11-07 18:34:50.410 [main] INFO  utils.Log - waiting if url does not open
+2026-11-07 18:34:50.494 [main] INFO  utils.Log - url is working
+2026-11-07 18:34:50.538 [main] INFO  utils.Log - entering invalid username and password
+2026-11-07 18:45:19.001 [main] INFO  utils.Log - navigating to url
+2026-11-07 18:45:22.400 [main] INFO  utils.Log - maximizing driver
+2026-11-07 18:45:22.470 [main] INFO  utils.Log - navigating to url
+2026-11-07 18:45:23.204 [main] INFO  utils.Log - waiting if url does not open
+2026-11-07 18:45:23.280 [main] INFO  utils.Log - url is working
+2026-11-07 18:45:23.345 [main] INFO  utils.Log - entering invalid username and password
+2026-11-07 18:45:24.072 [main] INFO  utils.Log - closing chrome
+2026-11-07 18:45:24.550 [main] INFO  utils.Log - navigating to url
+2026-11-07 18:45:25.970 [main] INFO  utils.Log - maximizing driver
+2026-11-07 18:45:26.048 [main] INFO  utils.Log - navigating to url
+2026-11-07 18:45:26.778 [main] INFO  utils.Log - waiting if url does not open
+2026-11-07 18:45:26.822 [main] INFO  utils.Log - url is working
+2026-11-07 18:45:26.825 [main] INFO  utils.Log - entering valid username and password
+2026-11-07 18:45:28.692 [main] INFO  utils.Log - closing chrome
+2026-11-07 20:43:06.422 [main] INFO  utils.Log - navigating to url
+2026-11-07 20:45:11.611 [main] INFO  utils.Log - navigating to url
+2026-11-07 20:46:32.142 [main] INFO  utils.Log - navigating to url
+2026-11-07 20:46:34.919 [main] INFO  utils.Log - maximizing driver
+2026-11-07 20:46:34.988 [main] INFO  utils.Log - navigating to url
+2026-11-07 20:46:36.261 [main] INFO  utils.Log - waiting if url does not open
+2026-11-07 20:46:36.261 [main] INFO  utils.Log - url is working
+2026-11-07 20:46:36.347 [main] INFO  utils.Log - entering valid username and password
+2026-11-07 20:46:38.228 [main] INFO  utils.Log - closing chrome
+2026-11-07 20:57:20.831 [main] INFO  utils.Log - navigating to url
+2026-11-07 20:57:23.508 [main] INFO  utils.Log - maximizing driver
+2026-11-07 20:57:23.570 [main] INFO  utils.Log - navigating to url
+2026-11-07 20:57:24.250 [main] INFO  utils.Log - waiting if url does not open
+2026-11-07 20:57:24.250 [main] INFO  utils.Log - url is working
+2026-11-07 20:57:24.302 [main] INFO  utils.Log - entering valid username and password
+2026-11-07 20:57:24.977 [main] INFO  utils.Log - closing chrome
+2026-11-07 20:57:25.444 [main] INFO  utils.Log - navigating to url
+2026-11-07 20:57:26.561 [main] INFO  utils.Log - maximizing driver
+2026-11-07 20:57:26.618 [main] INFO  utils.Log - navigating to url
+2026-11-07 20:57:27.296 [main] INFO  utils.Log - waiting if url does not open
+2026-11-07 20:57:27.297 [main] INFO  utils.Log - url is working
+2026-11-07 20:57:27.303 [main] INFO  utils.Log - entering valid username and password
+2026-11-07 20:57:27.889 [main] INFO  utils.Log - closing chrome
+2026-11-07 20:59:07.560 [TestNG-PoolService-1] INFO  utils.Log - navigating to url
+2026-11-07 20:59:07.560 [TestNG-PoolService-2] INFO  utils.Log - navigating to url
+2026-11-07 20:59:10.715 [TestNG-PoolService-2] INFO  utils.Log - maximizing driver
+2026-11-07 20:59:10.715 [TestNG-PoolService-1] INFO  utils.Log - maximizing driver
+2026-11-07 20:59:10.790 [TestNG-PoolService-2] INFO  utils.Log - navigating to url
+2026-11-07 20:59:10.795 [TestNG-PoolService-1] INFO  utils.Log - navigating to url
+2026-11-07 20:59:12.345 [TestNG-PoolService-2] INFO  utils.Log - waiting if url does not open
+2026-11-07 20:59:12.345 [TestNG-PoolService-2] INFO  utils.Log - url is working
+2026-11-07 20:59:12.494 [TestNG-PoolService-1] INFO  utils.Log - waiting if url does not open
+2026-11-07 20:59:12.496 [TestNG-PoolService-1] INFO  utils.Log - url is working
+2026-11-07 20:59:12.501 [TestNG-PoolService-1] INFO  utils.Log - entering valid username and password
+2026-11-07 20:59:12.501 [TestNG-PoolService-2] INFO  utils.Log - entering valid username and password
+2026-11-07 20:59:13.640 [TestNG-PoolService-2] INFO  utils.Log - closing chrome
+2026-11-07 20:59:13.705 [TestNG-PoolService-1] INFO  utils.Log - closing chrome
+2026-11-07 21:01:39.163 [TestNG-tests-1] INFO  utils.Log - navigating to url
+2026-11-07 21:01:41.596 [TestNG-tests-1] INFO  utils.Log - maximizing driver
+2026-11-07 21:01:41.651 [TestNG-tests-1] INFO  utils.Log - navigating to url
+2026-11-07 21:01:42.343 [TestNG-tests-1] INFO  utils.Log - waiting if url does not open
+2026-11-07 21:01:42.343 [TestNG-tests-1] INFO  utils.Log - url is working
+2026-11-07 21:01:42.406 [TestNG-tests-1] INFO  utils.Log - entering valid username and password
+2026-11-07 21:01:43.022 [TestNG-tests-1] INFO  utils.Log - closing chrome
+2026-11-07 21:01:43.447 [TestNG-tests-1] INFO  utils.Log - navigating to url
+2026-11-07 21:01:44.464 [TestNG-tests-1] INFO  utils.Log - maximizing driver
+2026-11-07 21:01:44.524 [TestNG-tests-1] INFO  utils.Log - navigating to url
+2026-11-07 21:01:45.177 [TestNG-tests-1] INFO  utils.Log - waiting if url does not open
+2026-11-07 21:01:45.178 [TestNG-tests-1] INFO  utils.Log - url is working
+2026-11-07 21:01:45.182 [TestNG-tests-1] INFO  utils.Log - entering valid username and password
+2026-11-07 21:01:45.710 [TestNG-tests-1] INFO  utils.Log - closing chrome
+2026-11-07 21:01:45.980 [TestNG-tests-1] INFO  utils.Log - navigating to url
+2026-11-07 21:01:47.110 [TestNG-tests-1] INFO  utils.Log - maximizing driver
+2026-11-07 21:01:47.175 [TestNG-tests-1] INFO  utils.Log - navigating to url
+2026-11-07 21:01:47.877 [TestNG-tests-1] INFO  utils.Log - waiting if url does not open
+2026-11-07 21:01:47.878 [TestNG-tests-1] INFO  utils.Log - url is working
+2026-11-07 21:01:47.884 [TestNG-tests-1] INFO  utils.Log - entering invalid username and password
+2026-11-07 21:01:48.381 [TestNG-tests-1] INFO  utils.Log - closing chrome
+2026-11-07 21:01:48.732 [TestNG-tests-1] INFO  utils.Log - navigating to url
+2026-11-07 21:01:49.667 [TestNG-tests-1] INFO  utils.Log - maximizing driver
+2026-11-07 21:01:49.729 [TestNG-tests-1] INFO  utils.Log - navigating to url
+2026-11-07 21:01:50.409 [TestNG-tests-1] INFO  utils.Log - waiting if url does not open
+2026-11-07 21:01:50.411 [TestNG-tests-1] INFO  utils.Log - url is working
+2026-11-07 21:01:50.417 [TestNG-tests-1] INFO  utils.Log - entering valid username and password
+2026-11-07 21:01:52.132 [TestNG-tests-1] INFO  utils.Log - closing chrome
+2026-11-07 21:02:28.808 [TestNG-tests-1] INFO  utils.Log - navigating to url
+2026-11-07 21:02:30.755 [TestNG-tests-1] INFO  utils.Log - maximizing driver
+2026-11-07 21:02:30.797 [TestNG-tests-1] INFO  utils.Log - navigating to url
+2026-11-07 21:02:31.681 [TestNG-tests-1] INFO  utils.Log - waiting if url does not open
+2026-11-07 21:02:31.683 [TestNG-tests-1] INFO  utils.Log - url is working
+2026-11-07 21:02:31.740 [TestNG-tests-1] INFO  utils.Log - entering valid username and password
+2026-11-07 21:02:32.292 [TestNG-tests-1] INFO  utils.Log - closing chrome
+2026-11-07 21:02:32.598 [TestNG-tests-1] INFO  utils.Log - navigating to url
+2026-11-07 21:02:33.601 [TestNG-tests-1] INFO  utils.Log - maximizing driver
+2026-11-07 21:02:33.655 [TestNG-tests-1] INFO  utils.Log - navigating to url
+2026-11-07 21:02:34.350 [TestNG-tests-1] INFO  utils.Log - waiting if url does not open
+2026-11-07 21:02:34.351 [TestNG-tests-1] INFO  utils.Log - url is working
+2026-11-07 21:02:34.356 [TestNG-tests-1] INFO  utils.Log - entering valid username and password
+2026-11-07 21:02:34.825 [TestNG-tests-1] INFO  utils.Log - closing chrome
+2026-11-07 21:02:35.107 [TestNG-tests-1] INFO  utils.Log - navigating to url
+2026-11-07 21:02:36.021 [TestNG-tests-1] INFO  utils.Log - maximizing driver
+2026-11-07 21:02:36.084 [TestNG-tests-1] INFO  utils.Log - navigating to url
+2026-11-07 21:02:36.760 [TestNG-tests-1] INFO  utils.Log - waiting if url does not open
+2026-11-07 21:02:36.761 [TestNG-tests-1] INFO  utils.Log - url is working
+2026-11-07 21:02:36.765 [TestNG-tests-1] INFO  utils.Log - entering invalid username and password
+2026-11-07 21:02:37.250 [TestNG-tests-1] INFO  utils.Log - closing chrome
+2026-11-07 21:02:37.556 [TestNG-tests-1] INFO  utils.Log - navigating to url
+2026-11-07 21:02:38.643 [TestNG-tests-1] INFO  utils.Log - maximizing driver
+2026-11-07 21:02:38.680 [TestNG-tests-1] INFO  utils.Log - navigating to url
+2026-11-07 21:02:39.394 [TestNG-tests-1] INFO  utils.Log - waiting if url does not open
+2026-11-07 21:02:39.394 [TestNG-tests-1] INFO  utils.Log - url is working
+2026-11-07 21:02:39.397 [TestNG-tests-1] INFO  utils.Log - entering valid username and password
+2026-11-07 21:02:41.024 [TestNG-tests-1] INFO  utils.Log - closing chrome
+2026-11-07 21:03:46.771 [TestNG-test-LoginTests-3] INFO  utils.Log - navigating to url
+2026-11-07 21:03:46.771 [TestNG-test-LoginTests-2] INFO  utils.Log - navigating to url
+2026-11-07 21:03:46.771 [TestNG-test-LoginTests-1] INFO  utils.Log - navigating to url
+2026-11-07 21:03:50.296 [TestNG-test-LoginTests-1] INFO  utils.Log - maximizing driver
+2026-11-07 21:03:50.296 [TestNG-test-LoginTests-3] INFO  utils.Log - maximizing driver
+2026-11-07 21:03:50.296 [TestNG-test-LoginTests-2] INFO  utils.Log - maximizing driver
+2026-11-07 21:03:50.433 [TestNG-test-LoginTests-1] INFO  utils.Log - navigating to url
+2026-11-07 21:03:50.444 [TestNG-test-LoginTests-2] INFO  utils.Log - navigating to url
+2026-11-07 21:03:50.472 [TestNG-test-LoginTests-3] INFO  utils.Log - navigating to url
+2026-11-07 21:03:51.439 [TestNG-test-LoginTests-2] INFO  utils.Log - waiting if url does not open
+2026-11-07 21:03:51.443 [TestNG-test-LoginTests-2] INFO  utils.Log - url is working
+2026-11-07 21:03:51.626 [TestNG-test-LoginTests-1] INFO  utils.Log - waiting if url does not open
+2026-11-07 21:03:51.628 [TestNG-test-LoginTests-1] INFO  utils.Log - url is working
+2026-11-07 21:03:51.645 [TestNG-test-LoginTests-2] INFO  utils.Log - entering invalid username and password
+2026-11-07 21:03:51.649 [TestNG-test-LoginTests-1] INFO  utils.Log - entering valid username and password
+2026-11-07 21:03:51.756 [TestNG-test-LoginTests-3] INFO  utils.Log - waiting if url does not open
+2026-11-07 21:03:51.756 [TestNG-test-LoginTests-3] INFO  utils.Log - url is working
+2026-11-07 21:03:51.761 [TestNG-test-LoginTests-3] INFO  utils.Log - entering valid username and password
+2026-11-07 21:03:53.142 [TestNG-test-LoginTests-2] INFO  utils.Log - closing chrome
+2026-11-07 21:03:53.212 [TestNG-test-LoginTests-3] INFO  utils.Log - closing chrome
+2026-11-07 21:03:53.314 [TestNG-test-LoginTests-1] INFO  utils.Log - closing chrome
+2026-11-07 21:03:54.291 [TestNG-test-LoginTests-1] INFO  utils.Log - navigating to url
+2026-11-07 21:40:58.646 [main] INFO  utils.Log - navigating to url
+2026-11-07 21:41:01.661 [main] INFO  utils.Log - maximizing driver
+2026-11-07 21:41:01.726 [main] INFO  utils.Log - navigating to url
+2026-11-07 21:41:02.388 [main] INFO  utils.Log - waiting if url does not open
+2026-11-07 21:41:02.389 [main] INFO  utils.Log - url is working
+2026-11-07 21:41:02.448 [main] INFO  utils.Log - entering invalid username and password
+2026-11-07 21:41:03.146 [main] INFO  utils.Log - closing chrome
+2026-11-07 21:45:25.687 [main] INFO  utils.Log - C:\Users\rehan\StepByStep0711/TestData/testData.xlsx
+2026-11-07 21:47:15.084 [main] INFO  utils.Log - C:\Users\rehan\StepByStep0711src\test\resources\TestData\testData.xlsx
+2026-11-07 21:47:38.016 [main] INFO  utils.Log - C:\Users\rehan\StepByStep0711\src\test\resources\TestData\testData.xlsx
+2026-11-07 21:54:17.130 [main] INFO  utils.Log - C:\Users\rehan\StepByStep0711\src\test\resources\TestData\testData.xlsx
+2026-11-07 21:54:18.023 [main] INFO  utils.Log - navigating to url
+2026-11-07 21:54:21.014 [main] INFO  utils.Log - maximizing driver
+2026-11-07 21:54:21.097 [main] INFO  utils.Log - navigating to url
+2026-11-07 21:54:21.858 [main] INFO  utils.Log - waiting if url does not open
+2026-11-07 21:54:21.858 [main] INFO  utils.Log - url is working
+2026-11-07 21:54:21.962 [main] INFO  utils.Log - entering valid username and password
+2026-11-07 21:54:22.695 [main] INFO  utils.Log - closing chrome
+2026-11-07 21:54:23.198 [main] INFO  utils.Log - navigating to url
+2026-11-07 21:54:25.065 [main] INFO  utils.Log - maximizing driver
+2026-11-07 21:54:25.151 [main] INFO  utils.Log - navigating to url
+2026-11-07 21:54:27.101 [main] INFO  utils.Log - waiting if url does not open
+2026-11-07 21:54:27.102 [main] INFO  utils.Log - url is working
+2026-11-07 21:54:27.121 [main] INFO  utils.Log - entering valid username and password
+2026-11-07 21:54:28.639 [main] INFO  utils.Log - closing chrome
+2026-11-07 21:54:29.786 [main] INFO  utils.Log - navigating to url
+2026-11-07 21:54:31.539 [main] INFO  utils.Log - maximizing driver
+2026-11-07 21:54:31.619 [main] INFO  utils.Log - navigating to url
+2026-11-07 21:54:32.436 [main] INFO  utils.Log - waiting if url does not open
+2026-11-07 21:54:32.437 [main] INFO  utils.Log - url is working
+2026-11-07 21:54:32.442 [main] INFO  utils.Log - entering valid username and password
+2026-11-07 21:54:34.304 [main] INFO  utils.Log - closing chrome
