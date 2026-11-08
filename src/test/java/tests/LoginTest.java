@@ -1,11 +1,8 @@
 package tests;
 
 import base.BaseTest;
-import lombok.Data;
-import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 import org.testng.annotations.DataProvider;
-import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 import pages.LoginPage;
 import utils.ExcelUtils;
@@ -14,7 +11,7 @@ import utils.Log;
 
 import java.io.IOException;
 
-public class Logintest extends BaseTest {
+public class LoginTest extends BaseTest {
 
     @DataProvider(name = "loginData")
     public Object[][] getLoginData() throws IOException {
